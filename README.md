@@ -3,4 +3,3 @@
 - [Programming Languages From Apex to Abyss](https://github.com/Zain-Zameer/Programming-Languages-From-Apex-to-Abyss)
 - [Level Lab Candy Crush Difficulty Insights](https://github.com/Zain-Zameer/Level-Lab-Candy-Crush-Difficulty-Insights)
 - [Years of Life Men vs. Women](https://github.com/Zain-Zameer/Years-of-Life-Men-vs-Women)
-- [Digital Employment Analytics 2011-2024](https://github.com/Zain-Zameer/Digital-Employment-Analytics-2011-2024)
